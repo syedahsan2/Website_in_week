@@ -64,8 +64,8 @@
                                         </div>
                                     </form>
                                     <ul class="footer-menu">
-                                        <li><a href="about.html">Terms & Conditions</a></li>
-                                        <li><a href="service.html">Privacy Policy</a></li>
+                                        <li><a href="terms_condition.php">Terms & Conditions</a></li>
+                                        <li><a href="privacy_policy.php">Privacy Policy</a></li>
                                     </ul>
                                 </div>
                             </div>
